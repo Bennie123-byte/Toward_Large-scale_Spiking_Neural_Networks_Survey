@@ -35,7 +35,7 @@
 </thead>
 <tbody>
   <tr>
-    <td align="center" rowspan="2"><br>Vanilla Attention</td>
+    <td align="center" rowspan="3"><br>Vanilla Attention</td>
     <td align="center"><a href="https://doi.org/10.1109/ICSAI53574.2021.9664146">Spiking transformer networks: A rate coded approach for processing sequential data</a></td>
     <td align="center">2021/11</td>
     <td align="center"> N/A</td>
@@ -51,6 +51,15 @@
     <td align="center"><a href="https://github.com/Jee-King/CVPR2022_STNet">Github</a></td>
     <td align="center">CVPR2022</td>
     <td align="center">DLUT</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html">Spike transformer: Monocular depth estimation for spiking camera</a></td>
+    <td align="center">2022/06</td>
+    <td align="center"> N/A</td>
+    <td align="center"><a href="https://github.com/Leozhangjiyuan/MDE-SpikingCamera">Github</a></td>
+    <td align="center">ECCV2022</td>
+    <td align="center">PKU</td>
     <td align="center"></td>
   </tr>
   <tr>
