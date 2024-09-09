@@ -36,10 +36,12 @@
 <tbody>
   <tr>
     <td align="center" rowspan="2">Publicly <br>Accessbile</td>
-    <td align="center">Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks</td>
+    <td align="center">Spikformer: When spiking neural network meets transformer</td>
     <td align="center">2019/10</td>
     <td align="center">11</td>
     <td align="center"><a href="https://arxiv.org/abs/1910.10683">Paper</a></td>
+    <td align="center">ICLR2023</a></td>
+    <td align="center">PKU</a></td>
   </tr>
 </tbody>
 </table>
