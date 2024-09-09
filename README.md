@@ -35,6 +35,25 @@
 </thead>
 <tbody>
   <tr>
+    <td align="center" rowspan="2"><br>Vanilla Attention</td>
+    <td align="center"><a href="https://doi.org/10.1109/ICSAI53574.2021.9664146">Spiking transformer networks: A rate coded approach for processing sequential data</a></td>
+    <td align="center">2021/11</td>
+    <td align="center"> N/A</td>
+    <td align="center">N/A</td>
+    <td align="center">ICSAI2021</td>
+    <td align="center">TUM</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://doi.org/10.1109/ICSAI53574.2021.9664146">Spiking transformer networks: A rate coded approach for processing sequential data</a></td>
+    <td align="center">2021/11</td>
+    <td align="center"> N/A</td>
+    <td align="center">N/A</td>
+    <td align="center">ICSAI2021</td>
+    <td align="center">TUM</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
     <td align="center" rowspan="2"><br>SSA</td>
     <td align="center"><a href="https://openreview.net/forum?id=frE4fUwz_h">Spikformer: When spiking neural network meets transformer</a></td>
     <td align="center">2022/09</td>
