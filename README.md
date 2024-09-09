@@ -23,8 +23,8 @@
   <tr>
     <th align="center" rowspan="2">Category</th>
     <th align="center" rowspan="2">Paper</th>
-    <th align="center" rowspan="2">Release Time</th>
-    <th align="center" rowspan="2">Reported Model Size (Max)</th>
+    <th align="center" rowspan="2">Release Time (arXiv first)</th>
+    <th align="center" rowspan="2">Model Size (Max)</th>
     <th align="center" rowspan="2">Code Link</th>
     <th align="center" rowspan="2">Venue</th>
     <th align="center" rowspan="2">Group</th>
@@ -35,8 +35,8 @@
 </thead>
 <tbody>
   <tr>
-    <td align="center" rowspan="2">SSA <br>Accessbile</td>
-    <td align="center">Spikformer: When spiking neural network meets transformer</td>
+    <td align="center" rowspan="2"><br>SSA</td>
+    <td align="center"><a href="https://openreview.net/forum?id=frE4fUwz_h">Paper</a>Spikformer: When spiking neural network meets transformer</td>
     <td align="center">2022/09</td>
     <td align="center">11</td>
     <td align="center"><a href="https://arxiv.org/abs/1910.10683">Paper</a></td>
