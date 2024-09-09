@@ -35,13 +35,14 @@
 </thead>
 <tbody>
   <tr>
-    <td align="center" rowspan="2">Publicly <br>Accessbile</td>
+    <td align="center" rowspan="2">SSA <br>Accessbile</td>
     <td align="center">Spikformer: When spiking neural network meets transformer</td>
-    <td align="center">2019/10</td>
+    <td align="center">2022/09</td>
     <td align="center">11</td>
     <td align="center"><a href="https://arxiv.org/abs/1910.10683">Paper</a></td>
-    <td align="center">ICLR2023</a></td>
-    <td align="center">PKU</a></td>
+    <td align="center">ICLR2023</td>
+    <td align="center">PKU</td>
+    <td align="center">First SSA. Prometheus :fire:</td>
   </tr>
 </tbody>
 </table>
