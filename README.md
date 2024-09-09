@@ -19,24 +19,27 @@
 
 # List of Spiking Transformers
 <table>
-  <thead>
-    <tr>
-      <th width="50">&nbsp;</th>
-      <th width="900">3 Errors</th>
-     </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>:white_flower:</td>
-      <td>fdescribe left in tests</td>
-    </tr>
-    <tr>
-      <td>:white_flower:</td>
-      <td>fit left in tests</td>
-    </tr>
-    <tr>
-      <td>:white_flower:</td>
-      <td>Developer Specific file shouldn't be changed</td>
-    </tr>
-  </tbody>
+<thead>
+  <tr>
+    <th align="center" rowspan="2">Category</th>
+    <th align="center" rowspan="2">Paper</th>
+    <th align="center" rowspan="2">Release Time</th>
+    <th align="center" rowspan="2">Reported Model Size (Max)</th>
+    <th align="center" rowspan="2">Code Link</th>
+    <th align="center" rowspan="2">Venue</th>
+    <th align="center" rowspan="2">Group</th>
+    <th align="center" rowspan="2">Comment</th>
+  </tr>
+  <tr>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center" rowspan="2">Publicly <br>Accessbile</td>
+    <td align="center">Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks</td>
+    <td align="center">2019/10</td>
+    <td align="center">11</td>
+    <td align="center"><a href="https://arxiv.org/abs/1910.10683">Paper</a></td>
+  </tr>
+</tbody>
 </table>
