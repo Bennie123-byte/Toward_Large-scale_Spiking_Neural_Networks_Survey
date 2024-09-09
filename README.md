@@ -2,7 +2,7 @@
 
 > A collection of papers and resources related to deep SNN models
 >
-> With the thriving of Spiking Transfomrers, we hope this survey could be of help in achieving large-scale SNNs. 
+> With the thriving of Spiking Transfomrers, we hope this survey could be of help in implementing large-scale SNNs. 
 >
 > The organization refers to our survey [**"Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions"**](https://www.arxiv.org/abs/2409.02111). 
 >
