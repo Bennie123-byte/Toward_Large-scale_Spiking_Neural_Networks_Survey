@@ -27,15 +27,15 @@
   </thead>
   <tbody>
     <tr>
-      <td>:no_entry_sign:</td>
+      <td>:white_flower:</td>
       <td>fdescribe left in tests</td>
     </tr>
     <tr>
-      <td>:no_entry_sign:</td>
+      <td>:white_flower:</td>
       <td>fit left in tests</td>
     </tr>
     <tr>
-      <td>:no_entry_sign:</td>
+      <td>:white_flower:</td>
       <td>Developer Specific file shouldn't be changed</td>
     </tr>
   </tbody>
