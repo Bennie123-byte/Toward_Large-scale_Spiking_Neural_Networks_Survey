@@ -45,7 +45,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://doi.org/10.1109/ICSAI53574.2021.9664146">Spiking transformer networks: A rate coded approach for processing sequential data</a></td>
+    <td align="center"><a href="https://doi.org/10.1109/ICSAI53574.2021.9664146">Spiking transformers for event-based single object tracking</a></td>
     <td align="center">2021/11</td>
     <td align="center"> N/A</td>
     <td align="center">N/A</td>
