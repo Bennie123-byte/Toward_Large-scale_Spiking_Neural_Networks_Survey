@@ -36,7 +36,7 @@
 <tbody>
   <tr>
     <td align="center" rowspan="2"><br>SSA</td>
-    <td align="center"><a href="https://openreview.net/forum?id=frE4fUwz_h">Paper</a>Spikformer: When spiking neural network meets transformer</td>
+    <td align="center"><a href="https://openreview.net/forum?id=frE4fUwz_h">Spikformer: When spiking neural network meets transformer</a></td>
     <td align="center">2022/09</td>
     <td align="center">11</td>
     <td align="center"><a href="https://arxiv.org/abs/1910.10683">Paper</a></td>
