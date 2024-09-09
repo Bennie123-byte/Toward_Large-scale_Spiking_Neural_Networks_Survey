@@ -18,3 +18,25 @@
 ```
 
 # List of Spiking Transformers
+<table>
+  <thead>
+    <tr>
+      <th width="50">&nbsp;</th>
+      <th width="900">3 Errors</th>
+     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>:no_entry_sign:</td>
+      <td>fdescribe left in tests</td>
+    </tr>
+    <tr>
+      <td>:no_entry_sign:</td>
+      <td>fit left in tests</td>
+    </tr>
+    <tr>
+      <td>:no_entry_sign:</td>
+      <td>Developer Specific file shouldn't be changed</td>
+    </tr>
+  </tbody>
+</table>
