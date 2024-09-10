@@ -4,7 +4,7 @@
 >
 > With the thriving of Spiking Transfomrers, we hope this survey could be of help in implementing large-scale SNNs. 
 >
-> The organization refers to our survey [**"Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions"**](https://www.arxiv.org/abs/2409.02111). 
+> This repo refers to our survey [**"Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions"**](https://www.arxiv.org/abs/2409.02111). 
 >
 > If you find our survey useful for your research, please cite the following paper:
 
