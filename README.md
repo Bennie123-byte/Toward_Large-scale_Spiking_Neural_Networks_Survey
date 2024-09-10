@@ -93,7 +93,7 @@
     <td align="center"><a href="https://arxiv.org/abs/2403.16552">QKFormer: Hierarchical Spiking Transformer using QK Attention</a></td>
     <td align="center">2024</td>
     <td align="center"> 64.96 M</td>
-    <td align="center"><a href="https://github.com/zhouchenlin2096/QKFormer">Github</a></td>
+    <td align="center"><a href="https://github.com/zhouchenlin2096/QKFormer"></a></td>
     <td align="center"></td>
     <td align="center">PCL</td>
     <td align="center"></td>
