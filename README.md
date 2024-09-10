@@ -72,5 +72,14 @@
     <td align="center">PKU</td>
     <td align="center">First SSA. Prometheus :fire:</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html">Spike-driven Transformer</a></td>
+    <td align="center">2023</td>
+    <td align="center"> 66.34 M</td>
+    <td align="center"><a href="https://github.com/BICLab/Spike-Driven-Transformer">Github</a></td>
+    <td align="center">NIPS2023</td>
+    <td align="center">CASIA</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
