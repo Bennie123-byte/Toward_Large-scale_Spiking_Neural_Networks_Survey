@@ -85,7 +85,7 @@
     <td align="center"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Shi_SpikingResformer_Bridging_ResNet_and_Vision_Transformer_in_Spiking_Neural_Networks_CVPR_2024_paper.html">SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks</a></td>
     <td align="center">2024</td>
     <td align="center"> 60.38 M</td>
-    <td align="center"><a href="https://github.com/BICLab/Spike-Driven-Transformer">Github</a></td>
+    <td align="center"><a href="https://github.com/xyshi2000/SpikingResformer">Github</a></td>
     <td align="center">CVPR2024</td>
     <td align="center">PKU</td>
     <td align="center"></td>
