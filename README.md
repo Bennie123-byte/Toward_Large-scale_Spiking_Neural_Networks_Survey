@@ -261,7 +261,16 @@
     <td align="center"></td>
     <td align="center"><a href="https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF">Github</a></td>
     <td align="center">ICML2024</td>
+    <td align="center">SJTU</td>
     <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://openreview.net/forum?id=BZi746oBG8&referrer=%5Bthe%20profile%20of%20Zecheng%20Hao%5D(%2Fprofile%3Fid%3D~Zecheng_Hao1)">Towards High-performance Spiking Transformers from ANN to SNN Conversion</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">MM2024</td>
+    <td align="center">PKU</td>
     <td align="center"></td>
   </tr>
 </tbody>
