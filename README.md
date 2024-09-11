@@ -144,5 +144,15 @@
     <td align="center">SHU</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center" rowspan="5"><br>Architecture</td>
+    <td align="center"><a href="https://arxiv.org/abs/2304.11954">Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network</a></td>
+    <td align="center">2023</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/zhouchenlin2096/Spikingformer">Github</a></td>
+    <td align="center"></td>
+    <td align="center">PCL</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
