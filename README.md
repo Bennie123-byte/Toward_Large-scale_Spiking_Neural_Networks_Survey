@@ -200,7 +200,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center" rowspan="6"><br>Lightweighting</td>
+    <td align="center" rowspan="4"><br>Lightweighting</td>
     <td align="center"><a href="https://doi.org/10.1109/ICASSP48485.2024.10445971">AutoST: Training-free Neural Architecture Search for Spiking Transformers</a></td>
     <td align="center">2023</td>
     <td align="center"></td>
