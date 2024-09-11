@@ -310,5 +310,14 @@
     <td align="center">ZJU</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/abs/2407.04752">SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center"></td>
+    <td align="center">CASIA</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
