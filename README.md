@@ -99,7 +99,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center" rowspan="4"><br>SSA</td>
+    <td align="center" rowspan="4"><br>STSA</td>
     <td align="center"><a href="https://arxiv.org/abs/2311.09376">DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention</a></td>
     <td align="center">2023</td>
     <td align="center"></td>
