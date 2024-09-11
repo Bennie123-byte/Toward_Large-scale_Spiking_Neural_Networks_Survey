@@ -246,5 +246,14 @@
     <td align="center">HKUST</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://openreview.net/forum?id=XrunSYwoLr">Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/bic-L/Masked-Spiking-Transformer">Github</a></td>
+    <td align="center">ICLR2024</td>
+    <td align="center">THU</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
