@@ -112,7 +112,7 @@
     <td align="center"><a href="https://www.ijcai.org/proceedings/2023/344">Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks</a></td>
     <td align="center">2023</td>
     <td align="center"></td>
-    <td align="center"><a href="https://github.com/ppppps/STSA_4_Asyn_SNN"></a>Github</td>
+    <td align="center"><a href="https://github.com/ppppps/STSA_4_Asyn_SNN">Github</a></td>
     <td align="center">IJCAI2023</td>
     <td align="center">UESTC</td>
     <td align="center"></td>
@@ -121,7 +121,7 @@
     <td align="center"><a href="https://arxiv.org/abs/2303.09681">Event-based human pose tracking by spiking spatiotemporal transformer</a></td>
     <td align="center">2023</td>
     <td align="center"></td>
-    <td align="center"><a href="https://github.com/JimmyZou/HumanPoseTracking_SNN"></a>Github</td>
+    <td align="center"><a href="https://github.com/JimmyZou/HumanPoseTracking_SNN">Github</a></td>
     <td align="center"></td>
     <td align="center">UAlberta</td>
     <td align="center"></td>
