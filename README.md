@@ -209,5 +209,14 @@
     <td align="center">NCSU</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/abs/2308.02557">Attention-free spikformer: Mixing spike sequences with simple linear transforms</a></td>
+    <td align="center">2023</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center"></td>
+    <td align="center">UCAS</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
