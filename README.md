@@ -301,5 +301,14 @@
     <td align="center">FDU</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4101-6">SpikingMiniLM: Energy-efficient Spiking Transformer for Natural Language Understanding</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center"></td>
+    <td align="center">ZJU</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
