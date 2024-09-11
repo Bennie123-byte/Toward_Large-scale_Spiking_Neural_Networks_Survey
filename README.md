@@ -236,5 +236,15 @@
     <td align="center">SCU</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center" rowspan="4"><br>Conversion</td>
+    <td align="center"><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.html">Masked spiking transformer</a></td>
+    <td align="center">2023</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/bic-L/Masked-Spiking-Transformer">Github</a></td>
+    <td align="center">ICCV2023</td>
+    <td align="center">HKUST</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
