@@ -126,5 +126,14 @@
     <td align="center">UAlberta</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/abs/2303.09681">TIM: An Efficient Temporal Interaction Module for Spiking Transformer</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM">Github</a></td>
+    <td align="center">IJCAI2024</td>
+    <td align="center">CASIA</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
