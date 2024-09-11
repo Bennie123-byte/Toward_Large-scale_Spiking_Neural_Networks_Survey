@@ -347,5 +347,23 @@
     <td align="center">ETHZ</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/abs/2310.06488">SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center"></td>
+    <td align="center">FDU</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/abs/2402.11588">SDiT: Spiking Diffusion Model with Transformer</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center"></td>
+    <td align="center">ZJU</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
