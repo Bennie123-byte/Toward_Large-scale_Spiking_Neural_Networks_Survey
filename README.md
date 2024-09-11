@@ -283,5 +283,23 @@
     <td align="center">UCSC</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28975">SpikingBERT: Distilling bert to train spiking language models using implicit differentiation</a></td>
+    <td align="center">2023</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/NeuroCompLab-psu/SpikingBERT">Github</a></td>
+    <td align="center">AAAI2024</td>
+    <td align="center">PSU</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/abs/2308.15122">SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation</a></td>
+    <td align="center">2023</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/Lvchangze/SpikeBERT">Github</a></td>
+    <td align="center"></td>
+    <td align="center">FDU</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
