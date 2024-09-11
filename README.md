@@ -166,7 +166,7 @@
   <tr>
     <td align="center"><a href="https://arxiv.org/abs/2401.02020">Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket</a></td>
     <td align="center">2024</td>
-    <td align="center"></td>
+    <td align="center">51.55 M</td>
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">PKU</td>
@@ -184,7 +184,7 @@
   <tr>
     <td align="center"><a href="https://openreview.net/forum?id=1SIBN5Xyw7">Spike-driven transformer v2: Meta spiking neural network architecture inspiring the design of next-generation neuromorphic chips</a></td>
     <td align="center">2024</td>
-    <td align="center"></td>
+    <td align="center">55.4 M</td>
     <td align="center"><a href="https://github.com/BICLab/Spike-Driven-Transformer-V2">Github</a></td>
     <td align="center">ICLR2024</td>
     <td align="center">CASIA</td>
