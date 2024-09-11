@@ -154,5 +154,14 @@
     <td align="center">PCL</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/pdf/2304.11954">Enhancing the Performance of Transformer-based Spiking Neural Networks by SNN-optimized Downsampling with Precise Gradient Backpropagation</a></td>
+    <td align="center">2023</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/zhouchenlin2096/Spikingformer-CML">Github</a></td>
+    <td align="center"></td>
+    <td align="center">PCL</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
