@@ -140,7 +140,7 @@
     <td align="center">2024</td>
     <td align="center"></td>
     <td align="center"><a href=""></a></td>
-    <td align="center">Neurocomputing</td>
+    <td align="center">Neurocomput.</td>
     <td align="center">SHU</td>
     <td align="center"></td>
   </tr>
