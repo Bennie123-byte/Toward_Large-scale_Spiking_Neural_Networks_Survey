@@ -163,5 +163,14 @@
     <td align="center">PCL</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/abs/2401.02020">Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center"></td>
+    <td align="center">PKU</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
