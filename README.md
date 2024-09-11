@@ -274,7 +274,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center" rowspan="4"><br>NLP</td>
+    <td align="center" rowspan="5"><br>NLP</td>
     <td align="center"><a href="https://openreview.net/forum?id=gcf1anBL9e">Spikegpt: Generative pre-trained language model with spiking neural networks</a></td>
     <td align="center">2023</td>
     <td align="center"></td>
