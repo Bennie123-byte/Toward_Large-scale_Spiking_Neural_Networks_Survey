@@ -99,7 +99,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center" rowspan="4"><br>STSA</td>
+    <td align="center" rowspan="5"><br>STSA</td>
     <td align="center"><a href="https://arxiv.org/abs/2311.09376">DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention</a></td>
     <td align="center">2023</td>
     <td align="center"></td>
@@ -133,6 +133,15 @@
     <td align="center"><a href="https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM">Github</a></td>
     <td align="center">IJCAI2024</td>
     <td align="center">CASIA</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010397">TE-Spikformer: Temporal-enhanced spiking neural network with transformer</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center">Neurocomputing</td>
+    <td align="center">SHU</td>
     <td align="center"></td>
   </tr>
 </tbody>
