@@ -145,7 +145,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center" rowspan="5"><br>Architectural Improvements</td>
+    <td align="center" rowspan="6"><br>Architectural Improvements</td>
     <td align="center"><a href="https://arxiv.org/abs/2304.11954">Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network</a></td>
     <td align="center">2023</td>
     <td align="center"></td>
@@ -188,6 +188,15 @@
     <td align="center"><a href="https://github.com/BICLab/Spike-Driven-Transformer-V2">Github</a></td>
     <td align="center">ICLR2024</td>
     <td align="center">CASIA</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full">SGLFormer: Spiking Global-Local-Fusion Transformer with high performance</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/ZhangHanN1/SGLFormer">Github</a></td>
+    <td align="center">Front. Neurosci.</td>
+    <td align="center">PCL</td>
     <td align="center"></td>
   </tr>
 </tbody>
