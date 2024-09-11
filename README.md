@@ -232,7 +232,7 @@
     <td align="center">2024</td>
     <td align="center"></td>
     <td align="center"><a href="https://github.com/songxt3/OST">Github</a></td>
-    <td align="center"></td>
+    <td align="center">IJCAI2024</td>
     <td align="center">SCU</td>
     <td align="center"></td>
   </tr>
