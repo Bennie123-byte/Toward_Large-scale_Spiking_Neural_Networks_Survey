@@ -330,7 +330,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center"><a href="Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer">Spiking-physformer: Camera-based remote photoplethysmography with parallel spike-driven transformer</a></td>
+    <td align="center"><a href="https://arxiv.org/abs/2402.04798">Spiking-physformer: Camera-based remote photoplethysmography with parallel spike-driven transformer</a></td>
     <td align="center">2024</td>
     <td align="center"></td>
     <td align="center"><a href=""></a></td>
