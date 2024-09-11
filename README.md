@@ -273,5 +273,15 @@
     <td align="center">PKU</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center" rowspan="4"><br>NLP</td>
+    <td align="center"><a href="https://openreview.net/forum?id=gcf1anBL9e">Spikegpt: Generative pre-trained language model with spiking neural networks</a></td>
+    <td align="center">2023</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/ridgerchu/SpikeGPT">Github</a></td>
+    <td align="center">TMLR</td>
+    <td align="center">UCSC</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
