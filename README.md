@@ -23,8 +23,8 @@
   <tr>
     <th align="center" rowspan="2">Category</th>
     <th align="center" rowspan="2">Paper</th>
-    <th align="center" rowspan="2">Release Date (arXiv first)</th>
-    <th align="center" rowspan="2">Model Size (Max)</th>
+    <th align="center" rowspan="2">Date (arXiv first)</th>
+    <th align="center" rowspan="2">Param. Size (Max)</th>
     <th align="center" rowspan="2">Code Link</th>
     <th align="center" rowspan="2">Venue</th>
     <th align="center" rowspan="2">Group</th>
