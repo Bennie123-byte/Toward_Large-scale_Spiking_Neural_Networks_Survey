@@ -330,16 +330,6 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center" rowspan="5"><br>Interesting Applications</td>
-    <td align="center"><a href="https://doi.org/10.1109/TCDS.2023.3327081">Transformer-based spiking neural networks for multimodal audio-visual classification</a></td>
-    <td align="center">2023</td>
-    <td align="center"></td>
-    <td align="center"><a href="https://github.com/Guo-Lingyue/SMMT">Github</a></td>
-    <td align="center">TCDS</td>
-    <td align="center">CASIA</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
     <td align="center"><a href="Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer">Spiking-physformer: Camera-based remote photoplethysmography with parallel spike-driven transformer</a></td>
     <td align="center">2024</td>
     <td align="center"></td>
