@@ -218,5 +218,23 @@
     <td align="center">UCAS</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://arxiv.org/abs/2311.16456">Spiking Neural Networks with Dynamic Time Steps for Vision Transformers</a></td>
+    <td align="center">2023</td>
+    <td align="center"></td>
+    <td align="center"><a href=""></a></td>
+    <td align="center"></td>
+    <td align="center">UCAS</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.ijcai.org/proceedings/2024/348">One-step Spiking Transformer with a Linear Complexity</a></td>
+    <td align="center">2024</td>
+    <td align="center"></td>
+    <td align="center"><a href="https://github.com/songxt3/OST">Github</a></td>
+    <td align="center"></td>
+    <td align="center">SCU</td>
+    <td align="center"></td>
+  </tr>
 </tbody>
 </table>
