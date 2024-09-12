@@ -170,7 +170,7 @@
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">PKU</td>
-    <td align="center">Self-Supervised Learn. + finetune</td>
+    <td align="center">Self-Supervised Learning + finetune</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.sciencedirect.com/science/article/pii/S092523122400050X">Spikeformer: Training high-performance spiking neural network with transformer</a></td>
