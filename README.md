@@ -51,7 +51,7 @@
     <td align="center"><a href="https://github.com/Jee-King/CVPR2022_STNet">Github</a></td>
     <td align="center">CVPR2022</td>
     <td align="center">DLUT</td>
-    <td align="center"></td>
+    <td align="center">DVS+OT</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3125_ECCV_2022_paper.php">Spike transformer: Monocular depth estimation for spiking camera</a></td>
@@ -60,7 +60,7 @@
     <td align="center"><a href="https://github.com/Leozhangjiyuan/MDE-SpikingCamera">Github</a></td>
     <td align="center">ECCV2022</td>
     <td align="center">PKU</td>
-    <td align="center"></td>
+    <td align="center">DVS+DE</td>
   </tr>
   <tr>
     <td align="center" rowspan="4"><br>SSA</td>
