@@ -120,7 +120,7 @@
   <tr>
     <td align="center"><a href="https://arxiv.org/abs/2303.09681">Event-based human pose tracking by spiking spatiotemporal transformer</a></td>
     <td align="center">2023</td>
-    <td align="center"></td>
+    <td align="center">47.7 M</td>
     <td align="center"><a href="https://github.com/JimmyZou/HumanPoseTracking_SNN">Github</a></td>
     <td align="center"></td>
     <td align="center">UAlberta</td>
