@@ -354,7 +354,7 @@
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">FDU</td>
-    <td align="center"></td>
+    <td align="center">CLIP+SNN</td>
   </tr>
   <tr>
     <td align="center"><a href="https://arxiv.org/abs/2402.11588">SDiT: Spiking Diffusion Model with Transformer</a></td>
@@ -363,7 +363,7 @@
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">ZJU</td>
-    <td align="center"></td>
+    <td align="center">Diffusion+SNN</td>
   </tr>
 </tbody>
 </table>
