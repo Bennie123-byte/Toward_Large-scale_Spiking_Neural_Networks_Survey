@@ -277,16 +277,16 @@
     <td align="center" rowspan="5"><br>NLP</td>
     <td align="center"><a href="https://openreview.net/forum?id=gcf1anBL9e">Spikegpt: Generative pre-trained language model with spiking neural networks</a></td>
     <td align="center">2023</td>
-    <td align="center"></td>
+    <td align="center">216 M</td>
     <td align="center"><a href="https://github.com/ridgerchu/SpikeGPT">Github</a></td>
     <td align="center">TMLR</td>
     <td align="center">UCSC</td>
-    <td align="center"></td>
+    <td align="center">RWKV</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28975">SpikingBERT: Distilling bert to train spiking language models using implicit differentiation</a></td>
     <td align="center">2023</td>
-    <td align="center"></td>
+    <td align="center">≤50 M</td>
     <td align="center"><a href="https://github.com/NeuroCompLab-psu/SpikingBERT">Github</a></td>
     <td align="center">AAAI2024</td>
     <td align="center">PSU</td>
@@ -295,7 +295,7 @@
   <tr>
     <td align="center"><a href="https://arxiv.org/abs/2308.15122">SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation</a></td>
     <td align="center">2023</td>
-    <td align="center"></td>
+    <td align="center">109 M</td>
     <td align="center"><a href="https://github.com/Lvchangze/SpikeBERT">Github</a></td>
     <td align="center"></td>
     <td align="center">FDU</td>
@@ -304,7 +304,7 @@
   <tr>
     <td align="center"><a href="https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4101-6">SpikingMiniLM: Energy-efficient Spiking Transformer for Natural Language Understanding</a></td>
     <td align="center">2024</td>
-    <td align="center"></td>
+    <td align="center">25.0 M</td>
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">ZJU</td>
@@ -313,7 +313,7 @@
   <tr>
     <td align="center"><a href="https://arxiv.org/abs/2407.04752">SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking</a></td>
     <td align="center">2024</td>
-    <td align="center"></td>
+    <td align="center">7~70 B</td>
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">CASIA</td>
