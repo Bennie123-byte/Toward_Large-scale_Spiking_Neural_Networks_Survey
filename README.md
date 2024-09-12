@@ -317,7 +317,7 @@
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">CASIA</td>
-    <td align="center"></td>
+    <td align="center">Impressive Size</td>
   </tr>
   <tr>
     <td align="center" rowspan="5"><br>Interesting Applications</td>
