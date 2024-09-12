@@ -79,7 +79,7 @@
     <td align="center"><a href="https://github.com/BICLab/Spike-Driven-Transformer">Github</a></td>
     <td align="center">NIPS2023</td>
     <td align="center">CASIA</td>
-    <td align="center"></td>
+    <td align="center">Mask+Add SSA</td>
   </tr>
   <tr>
     <td align="center"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Shi_SpikingResformer_Bridging_ResNet_and_Vision_Transformer_in_Spiking_Neural_Networks_CVPR_2024_paper.html">SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks</a></td>
