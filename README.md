@@ -1,4 +1,4 @@
-# Towards Large-scale Spiking Neural Networks
+# Toward Large-scale Spiking Neural Networks
 
 > A collection of papers and resources related to deep SNN models
 >
