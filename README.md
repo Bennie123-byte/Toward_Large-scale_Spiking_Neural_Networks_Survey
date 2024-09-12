@@ -148,20 +148,20 @@
     <td align="center" rowspan="6"><br>Architectural Improvements</td>
     <td align="center"><a href="https://arxiv.org/abs/2304.11954">Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network</a></td>
     <td align="center">2023</td>
-    <td align="center"></td>
+    <td align="center">66.34 M</td>
     <td align="center"><a href="https://github.com/zhouchenlin2096/Spikingformer">Github</a></td>
     <td align="center"></td>
     <td align="center">PCL</td>
-    <td align="center"></td>
+    <td align="center">Membrane Shortcuts</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://arxiv.org/pdf/2304.11954">Enhancing the Performance of Transformer-based Spiking Neural Networks by SNN-optimized Downsampling with Precise Gradient Backpropagation</a></td>
+    <td align="center"><a href="https://arxiv.org/abs/2305.05954">Enhancing the Performance of Transformer-based Spiking Neural Networks by SNN-optimized Downsampling with Precise Gradient Backpropagation</a></td>
     <td align="center">2023</td>
     <td align="center"></td>
     <td align="center"><a href="https://github.com/zhouchenlin2096/Spikingformer-CML">Github</a></td>
-    <td align="center"></td>
+    <td align="center">66.34 M</td>
     <td align="center">PCL</td>
-    <td align="center"></td>
+    <td align="center">Real-valued Max-pool</td>
   </tr>
   <tr>
     <td align="center"><a href="https://arxiv.org/abs/2401.02020">Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket</a></td>
@@ -170,7 +170,7 @@
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">PKU</td>
-    <td align="center"></td>
+    <td align="center">Self-Supervised Learn. + finetune</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.sciencedirect.com/science/article/pii/S092523122400050X">Spikeformer: Training high-performance spiking neural network with transformer</a></td>
