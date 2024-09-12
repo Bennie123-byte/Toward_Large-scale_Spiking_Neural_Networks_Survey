@@ -88,7 +88,7 @@
     <td align="center"><a href="https://github.com/xyshi2000/SpikingResformer">Github</a></td>
     <td align="center">CVPR2024</td>
     <td align="center">PKU</td>
-    <td align="center">Dual Spike Self-attention</td>
+    <td align="center">Dual Spike SA</td>
   </tr>
     <td align="center"><a href="https://arxiv.org/abs/2403.16552">QKFormer: Hierarchical Spiking Transformer using QK Attention</a></td>
     <td align="center">2024</td>
