@@ -96,7 +96,7 @@
     <td align="center"><a href="https://github.com/zhouchenlin2096/QKFormer"></a></td>
     <td align="center"></td>
     <td align="center">PCL</td>
-    <td align="center"></td>
+    <td align="center">token/channel attention</td>
   </tr>
   <tr>
     <td align="center" rowspan="5"><br>STSA</td>
