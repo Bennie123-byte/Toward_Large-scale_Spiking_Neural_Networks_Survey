@@ -345,7 +345,7 @@
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
     <td align="center">ETHZ</td>
-    <td align="center"></td>
+    <td align="center">BCI+SNN</td>
   </tr>
   <tr>
     <td align="center"><a href="https://arxiv.org/abs/2310.06488">SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network</a></td>
