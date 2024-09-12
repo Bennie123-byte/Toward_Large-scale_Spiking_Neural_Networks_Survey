@@ -224,7 +224,7 @@
     <td align="center"></td>
     <td align="center"><a href=""></a></td>
     <td align="center"></td>
-    <td align="center">UCAS</td>
+    <td align="center">USC</td>
     <td align="center"></td>
   </tr>
   <tr>
