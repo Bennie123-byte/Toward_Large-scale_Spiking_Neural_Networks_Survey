@@ -203,11 +203,11 @@
     <td align="center" rowspan="4"><br>Lightweighting</td>
     <td align="center"><a href="https://doi.org/10.1109/ICASSP48485.2024.10445971">AutoST: Training-free Neural Architecture Search for Spiking Transformers</a></td>
     <td align="center">2023</td>
-    <td align="center"></td>
+    <td align="center">34.44 M</td>
     <td align="center"><a href="https://github.com/AlexandreWANG915/AutoST">Github</a></td>
     <td align="center">ICASSP2024</td>
     <td align="center">NCSU</td>
-    <td align="center"></td>
+    <td align="center">SNN NAS</td>
   </tr>
   <tr>
     <td align="center"><a href="https://arxiv.org/abs/2308.02557">Attention-free spikformer: Mixing spike sequences with simple linear transforms</a></td>
@@ -230,7 +230,7 @@
   <tr>
     <td align="center"><a href="https://www.ijcai.org/proceedings/2024/348">One-step Spiking Transformer with a Linear Complexity</a></td>
     <td align="center">2024</td>
-    <td align="center"></td>
+    <td align="center">33.87 M</td>
     <td align="center"><a href="https://github.com/songxt3/OST">Github</a></td>
     <td align="center">IJCAI2024</td>
     <td align="center">SCU</td>
@@ -240,11 +240,11 @@
     <td align="center" rowspan="4"><br>Conversion</td>
     <td align="center"><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.html">Masked spiking transformer</a></td>
     <td align="center">2023</td>
-    <td align="center"></td>
+    <td align="center">28.5 M</td>
     <td align="center"><a href="https://github.com/bic-L/Masked-Spiking-Transformer">Github</a></td>
     <td align="center">ICCV2023</td>
     <td align="center">HKUST</td>
-    <td align="center"></td>
+    <td align="center">High Latency</td>
   </tr>
   <tr>
     <td align="center"><a href="https://openreview.net/forum?id=XrunSYwoLr">Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers</a></td>
